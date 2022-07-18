@@ -6,8 +6,8 @@
 <manifest>
   <remote name="nanopb" fetch="https://github.com/nanopb"/>
   <remote name="opensbi" fetch="https://github.com/riscv"/>
-  <remote name="seL4" fetch="."/>
-  <remote name="seL4_projects" fetch="../SEL4PROJ/"/>
+  <remote name="seL4" fetch="https://github.com/seL4/"/>
+  <remote name="seL4_projects" fetch="https://github.com/seL4/SEL4PROJ/"/>
   
   <remote name="y9" fetch="ssh://git@github.com/Yermin9/"/>
   
